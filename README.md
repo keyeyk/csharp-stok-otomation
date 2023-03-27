@@ -7,4 +7,3 @@ Yapılması düşünülen şeyler:
 2. Sayfaların arkaplanları daha açık tema olacak.
 3. SQL tasarımı yeniden yapılacak.
 4. Kodlarda ki hatalar giderilecek.
-5. C#'ın yanına ek olarak Java ile tekrardan yazılacak. 
